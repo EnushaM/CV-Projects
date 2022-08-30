@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 # Create a VideoCapture object and read from input file
-cap = cv2.VideoCapture('Datset/1.mp4')
+cap = cv2.VideoCapture('Dataset/1.mp4')
 
 # Check if video is succeffuly readed
 if (cap.isOpened()== False):
