@@ -1,6 +1,6 @@
 import qrcode
 # Link for website
-input_data = "Shanmathi"
+input_data = "Sundar Pichai"
 #Creating an instance of qrcode
 qr = qrcode.QRCode(
         version=1,
